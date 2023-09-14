@@ -6,3 +6,5 @@ npx expo --clear
 npm i @gorhom/bottom-sheet
 npx expo install react-native-reanimated react-native-gesture-handler
 npm i react-native-bouncy-checkbox
+npx expo install react-native-maps
+npm install react-native-google-places-autocomplete --save
