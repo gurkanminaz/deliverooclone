@@ -8,3 +8,4 @@ npx expo install react-native-reanimated react-native-gesture-handler
 npm i react-native-bouncy-checkbox
 npx expo install react-native-maps
 npm install react-native-google-places-autocomplete --save
+npm i deprecated-react-native-prop-types
