@@ -9,3 +9,4 @@ npm i react-native-bouncy-checkbox
 npx expo install react-native-maps
 npm install react-native-google-places-autocomplete --save
 npm i deprecated-react-native-prop-types
+npx expo install expo-haptics
