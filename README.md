@@ -11,3 +11,4 @@ npm install react-native-google-places-autocomplete --save
 npm i deprecated-react-native-prop-types
 npx expo install expo-haptics
 npm install zustand
+npm install react-native-confetti-cannon
